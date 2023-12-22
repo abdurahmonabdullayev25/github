@@ -1,0 +1,3 @@
+print("salom")
+print("bola")
+
